@@ -1,10 +1,10 @@
-package com.example.demo;
+package api.soulepen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class SoulepenApplicationTests {
 
     @Test
     void contextLoads() {
