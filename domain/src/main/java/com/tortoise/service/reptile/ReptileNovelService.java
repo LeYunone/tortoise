@@ -8,4 +8,12 @@ package com.tortoise.service.reptile;
  */
 public class ReptileNovelService {
 
+    /**
+     *  下载小说
+     * @param key 小说名
+     * @return
+     */
+    public boolean toDownNove(String key){
+        return true;
+    }
 }
