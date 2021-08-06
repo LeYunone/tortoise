@@ -25,4 +25,8 @@ public class ResultBean {
     private List<Object> listData;
 
     private Object[] dataObjs;
+
+    @Builder.Default
+    private boolean is=true;
+
 }
